@@ -1,0 +1,19 @@
+2º REUNIÃO COM O CLIENTE 16/05/2016
+
+De acordo com as informações obtidas na presente reunião o cliente se mostrou bastante satisfeito em seu primeiro contato com o PRODUTO em questão, tanto pelo layout quanto pela facilidade de uso (navegação, cadastro, etc...).
+
+Abaixo os pontos abordados:
+
+1º PONTO: O cliente ao navegar na tela inicial solicitou que “se possível”  inserir na mesma, uma espécie de cronograma simplificado indicando reservas já efetuadas e em andamento (Equipamentos, Salas, Horários, etc...) para assim obter uma rapida visualização do que esta ocorrendo e utilizar melhor o espaço em branco.
+
+2º PONTO: Na RESERVA definir horários fixos de acordo com o horário de aula ex:  das 19:00 as 19:50, 19:50 as 20:40 ou das 19:00 as 20:40. 
+
+3º PONTO: Também com relação a RESERVA determinar horário limite para os professores efetuarem ou cancelarem as reservas. Ex: Para as reservas Noturnas do dia atual e para as reservas do dia seguinte pela manha, o horário limite para as mesmas serem efetuadas/canceladas seria ate as 16:00hs do dia atual, e para o período da tarde seria ate as 11:30hs. Com objetivo de obter-se uma melhor organização.
+
+4º PONTO:  Ainda Sobre a reserva, o cliente ressaltou bastante sobre a usabilidade em relação a  interface na qual os professores irão efetua-las, pois a mesma necessita ser o mais simples e dinâmica possível, prevendo as dificuldades de alguns professores com relação a isto.
+
+
+
+
+
+"O cliente não sabe o que quer, até que você mostre a ele."  STEVE JOBS
